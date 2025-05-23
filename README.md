@@ -1,7 +1,7 @@
 ## 👋 ¡Hola! Soy Alhelí
 
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github.png" width="800"/>
+  <img decoding="async" src="https://github.com/Alhe1712/Alhe1712/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png" width="800"/>
 </div>
 
 🎓 **Ingeniera en Alimentos** | 📊 **Analista de Datos**  
