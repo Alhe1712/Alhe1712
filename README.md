@@ -1,8 +1,11 @@
-## 👋 ¡Hola! Soy Alhelí
 
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/Alhe1712/Alhe1712/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png" width="800"/>
 </div>
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alheli-navarro)
+
+## 👋 ¡Hola! Soy Alhelí
 
 🎓 **Ingeniera en Alimentos** | 📊 **Analista de Datos**  
 Apasionada por convertir datos en decisiones efectivas y basadas en evidencia. Me encanta explorar, visualizar y comunicar datos de forma clara y significativa.
@@ -14,23 +17,27 @@ Soy Ingeniera en Alimentos con formación y experiencia en análisis de datos. H
 
 ---
 
-### 🛠️ Habilidades
+## 🧠 Habilidades Técnicas
 
-- **Lenguajes de programación**:  
-  Python (Pandas, NumPy, Matplotlib, Seaborn) | SQL | 
+### 👨‍💻 Lenguajes de programación  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-- **Visualización de datos**:  
-  Power BI | Tableau | Matplotlib | Seaborn
+### 📊 Visualización de datos  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-2E6E9E?style=flat-square)
 
-- **Análisis de datos**:  
-  Estadística | Limpieza de datos | Modelado de datos
+### 📈 Análisis de datos  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
+![Statistics](https://img.shields.io/badge/Statistics-0A0A0A?style=flat-square&logo=canonical&logoColor=white)
 
-- **Otros**:  
-  Git | Excel avanzado | Jupyter Notebooks
+### 🧰 Otros  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
----
- (https://img.shields.io/badge/SQL-you_like-blue)
 
-### 📫 ¿Quieres contactarme?
-[![oli](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_usuario/)  
 
