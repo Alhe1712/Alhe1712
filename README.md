@@ -14,7 +14,7 @@ Apasionada por convertir datos en decisiones efectivas y basadas en evidencia. M
 ---
 
 ### 💼 Sobre mí
-Soy Ingeniera en Alimentos con formación y experiencia en análisis de datos. He aplicado herramientas como **Python**, **SQL**, **Excel** y **Power BI** para resolver problemas reales en la industria alimentaria y otros sectores. Me interesa especialmente la intersección entre los datos y las decisiones estratégicas.
+Soy Ingeniera en Alimentos con formación y experiencia en análisis de datos. He aplicado herramientas como **Python**, **SQL**, **Excel** y **Tableu** para resolver problemas reales en la industria alimentaria y otros sectores. Me interesa especialmente la intersección entre los datos y las decisiones estratégicas.
 
 ---
 
