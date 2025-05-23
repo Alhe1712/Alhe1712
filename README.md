@@ -28,6 +28,5 @@ Soy Ingeniera en Alimentos con formación y experiencia en análisis de datos. H
 
 
 ### 📫 ¿Quieres contactarme?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_usuario/)  
-📧 TuCorreo@example.com
+[![oli](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_usuario/)  
 
