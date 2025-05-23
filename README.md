@@ -1,8 +1,7 @@
-
-
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/Alhe1712/Alhe1712/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png" width="800"/>
+  <img decoding="async" src="https://github.com/Alhe1712/Alhe1712/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png" width="900"/>
 </div>
+
 ## 👋 ¡Hola! Soy Alhelí
 
 ## Contactame: 
