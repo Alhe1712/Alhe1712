@@ -1,5 +1,9 @@
 ## 👋 ¡Hola! Soy Alhelí
 
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github.png" width="800"/>
+</div>
+
 🎓 **Ingeniera en Alimentos** | 📊 **Analista de Datos**  
 Apasionada por convertir datos en decisiones efectivas y basadas en evidencia. Me encanta explorar, visualizar y comunicar datos de forma clara y significativa.
 
