@@ -3,8 +3,9 @@
   <img decoding="async" src="https://github.com/Alhe1712/Alhe1712/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png" width="800"/>
 </div>
 
+<div id="header" align="center>
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alheli-navarro)
-
+  </div>
 ## 👋 ¡Hola! Soy Alhelí
 
 🎓 **Ingeniera en Alimentos** | 📊 **Analista de Datos**  
