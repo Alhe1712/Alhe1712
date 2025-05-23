@@ -13,7 +13,7 @@ Soy Ingeniera en Alimentos con formación y experiencia en análisis de datos. H
 ### 🛠️ Habilidades
 
 - **Lenguajes de programación**:  
-  `Python` (Pandas, NumPy, Matplotlib, Seaborn) | `SQL` | `R`
+  Python (Pandas, NumPy, Matplotlib, Seaborn) | SQL | 
 
 - **Visualización de datos**:  
   Power BI | Tableau | Matplotlib | Seaborn
@@ -25,7 +25,7 @@ Soy Ingeniera en Alimentos con formación y experiencia en análisis de datos. H
   Git | Excel avanzado | Jupyter Notebooks
 
 ---
-
+ (https://img.shields.io/badge/SQL-you_like-blue)
 
 ### 📫 ¿Quieres contactarme?
 [![oli](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_usuario/)  
