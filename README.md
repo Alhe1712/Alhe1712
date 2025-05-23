@@ -1,13 +1,12 @@
 
+
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/Alhe1712/Alhe1712/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png" width="800"/>
 </div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alheli-navarro)
-
-
 ## 👋 ¡Hola! Soy Alhelí
+## Contactame: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alheli-navarro)
 
+---
 🎓 **Ingeniera en Alimentos** | 📊 **Analista de Datos**  
 Apasionada por convertir datos en decisiones efectivas y basadas en evidencia. Me encanta explorar, visualizar y comunicar datos de forma clara y significativa.
 
