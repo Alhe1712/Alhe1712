@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/Alhe1712/Alhe1712/blob/main/banner_nombre.png?raw=true" width="1000"/>
+  <img decoding="async" src="https://github.com/Alhe1712/Alhe1712/blob/main/banner_nombre1.png?raw=true" width="1000"/>
 </div>
 
 ## 👋 ¡Hola! Soy Alhelí
